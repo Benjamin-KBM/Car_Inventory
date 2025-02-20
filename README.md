@@ -1,6 +1,6 @@
 # Car Inventory
 # Project Description
-This is a platform where users can add, update, edit and delete car entries. All items are stored in a data base.
+This is a platform where users can add, update, edit and delete car entries. All items are stored in a data base using MongoBD.
 
 # The technologies used in this projects are as follows:
 * React js
@@ -15,10 +15,10 @@ This is a platform where users can add, update, edit and delete car entries. All
 * Nodemon
 
 # **How to Install and Run Car Inventory application**
-* Download and extract file and open the file it IDE of choice
-* Open terminal and cd frontend
+* Download and extract  the file and open it, in your IDE of choice
+* Open terminal and cd into frontend
 * npm install
-* cd backend
+* cd cd into backend
 * npm install
 * in frontend npm run dev to launch
 * in backend npm run dev to launch 
