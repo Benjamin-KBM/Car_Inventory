@@ -15,11 +15,13 @@ This is a platform where users can add, update, edit and delete car entries. All
 * Nodemon
 
 # **How to Install and Run Car Inventory application**
+* Download and extract file and open the file it IDE of choice
 * Open terminal and cd frontend
 * npm install
 * cd backend
 * npm install
-* npm run dev to launch backend and frontend
+* in frontend npm run dev to launch
+* in backend npm run dev to launch 
 
 # ![Alt text](CarInven_1.png)
 # ![Alt text](CarInventory_2.png)
