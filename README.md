@@ -20,3 +20,10 @@ This is a platform where users can add, update, edit and delete car entries. All
 * cd backend
 * npm install
 * npm run dev to launch backend and frontend
+
+# ![Alt text](CarInven_1.png)
+# ![Alt text](CarInventory_2.png)
+# ![Alt text](CarInvent_3.png)
+# ![Alt text](CarInvent_4.png)
+# ![Alt text](CarInvent_5.png)
+# ![Alt text](CarInvent_6.png)
